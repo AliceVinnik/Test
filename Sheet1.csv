@@ -1,8 +1,8 @@
-en:English	ru:Russian
-mode	word/phrase
-All right, here we go.	Все в порядке, вот мы идем.
-all	все
-right	правильно
-here	здесь
-we	мы
-go	идти.
+en:English	ru:Russian	ja:Japan
+mode	word/phrase	
+All right, here we go.	Все в порядке, вот мы идем.	よし、始めよう。
+all	все	全て
+right	правильно	右
+here	здесь	ここ
+we	мы	私たちは
+go	идти.	行く
